@@ -1,3 +1,6 @@
+# This project has been forked from the Original Repo 
+## The original code will be used for reference and modification to integrate with I.o.T. devices.
+
 # keras-facenet
 Facenet implementation by Keras2
 
