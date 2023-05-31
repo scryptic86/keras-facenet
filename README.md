@@ -1,3 +1,8 @@
+# The source repository is located [in nyoki-mtl/keras-facenet](https://github.com/nyoki-mtl/keras-facenet) if you wish to contribute to that project.
+
+## This project has been forked from the Original Repository and all credit goes to its authors and owner as well as all contributing developers and sources for their great work.
+## The original code will be used for reference and modification to integrate with I.o.T. devices.
+
 # keras-facenet
 Facenet implementation by Keras2
 
